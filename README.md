@@ -2,4 +2,4 @@
 Simple mensajes personalizados con huevo de pasvua
 
 
-![](./Captura.png)
+![](./Captura.PNG)
